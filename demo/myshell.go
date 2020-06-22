@@ -1,3 +1,9 @@
+/*
+*  构建自己简单的shell
+*  author: chengms
+*  create：20200619
+ */
+
 package main
 
 import (
@@ -8,12 +14,6 @@ import (
 	"os/exec"
 	"strings"
 )
-
-/*
-*  构建自己简单的shell
-*  author: chengms
-*  create：20200619
- */
 
 func main()  {
 	fmt.Println("running...")
